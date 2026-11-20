@@ -135,3 +135,10 @@ la réutilisation et la modification du code.
 ------------------------------------------------------------------------
 
 Développé avec ❤️ pour mettre en valeur les villes du Cameroun. 🇨🇲
+
+
+
+
+J'ai supprimer le fichier style.css 
+
+NKOT LIBOUGA MICSON GIREL
